@@ -10,7 +10,7 @@ but I've included a presentation that demonstrates the outcome of that work belo
 ## Presentation and Data Visualization 
 ### Introduction
 ![](https://github.com/KianKerm/AirBnB_DatathonProj/blob/GIFs/p1.gif)
-### DataPreprocessing
+### Data Pre-processing
 ![](https://github.com/KianKerm/AirBnB_DatathonProj/blob/GIFs/p2.gif)
 ### Descriptive Stats
 ![](https://github.com/KianKerm/AirBnB_DatathonProj/blob/GIFs/p3.gif)
